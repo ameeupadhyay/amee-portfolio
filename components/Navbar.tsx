@@ -200,7 +200,7 @@ const Navbar = () => {
                   </Link>
                   <Link
                     className="flex items-center gap-1 font-medium text-textDark hover:text-textGreen cursor-pointer duration-300 nav-link"
-                    href="#project"
+                    href="#projects"
                     onClick={handleScroll}
                   >
                     <motion.li
@@ -209,7 +209,7 @@ const Navbar = () => {
                       transition={{ duration: 0.2, delay: 0.4, ease: "easeIn" }}
                     >
                       <span className="text-textGreen">03.</span>
-                      Project
+                      Projects
                     </motion.li>
                   </Link>
                   <Link
