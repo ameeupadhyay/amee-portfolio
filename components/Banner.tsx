@@ -39,7 +39,7 @@ const Banner = () => {
         transition={{ duration: 0.5, delay: 0.8 }}
         className="text-base md:max-w-[650px] text-textDark font-medium"
       >
-        As a Software developer with 1.5 years of hands-on experience in back-end development,
+        As a Software developer with approximately 2 years of hands-on experience in back-end development,
         I have a strong command over building robust, scalable systems. My expertise extends to
         crafting efficient APIs and managing complex databases. I am passionate about optimizing
         performance and ensuring seamless integration with front-end systems, delivering solutions
